@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74EF2292-64CA-4BB8-AB75-1292FA2C55E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ScrollowImageSDK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>829C15626D85AF7F1F38F87EB225A07FD4A3CBEC</key>
+		<string>https://github.com/zengqingf/ZQFScrollImageView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ScrollowImageSDK.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>829C15626D85AF7F1F38F87EB225A07FD4A3CBEC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zengqingf/ZQFScrollImageView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>829C15626D85AF7F1F38F87EB225A07FD4A3CBEC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>829C15626D85AF7F1F38F87EB225A07FD4A3CBEC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZQFScrollImageView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

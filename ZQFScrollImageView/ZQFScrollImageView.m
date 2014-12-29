@@ -121,7 +121,7 @@
         pcHeight = 40;
     }
     //如果高度小于10就给10好了
-    if (frame.size.height < 10 && frame.size.height > 10) {
+    if (pcHeight < 10 && frame.size.height > 10) {
         pcHeight = 10;
     }
     CGRect pcRect = CGRectMake(0, frame.size.height - pcHeight, frame.size.width, pcHeight);
